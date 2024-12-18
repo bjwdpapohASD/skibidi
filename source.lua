@@ -14,14 +14,12 @@
 
     ~ Credits ~
 
-    [ iRay ] - [ @896378803868295178 ] | Lead developer
-    [ Mickey ] - [ @953720095811719208 ] | Developed perfect trajectory function and ESP library
-    [ Redpoint ] - [ @418013390024474624 ] | Contributed to triangles in the custom drawing api
+xero [1270216339025301596]
 
     ~ Special Thanks ~
 
     [ BBot ] - [ Inspiration to make such a nice UI and high quality/quantity feature list ]
-    [ Legacy ] - [ Best and only beta tester ]
+    [ Legacy ] - [ Best and only beta tester (nigger) ]
     
 ]]
 
@@ -43,7 +41,7 @@ local unloadMain
 local wapus
 
 LPH_NO_VIRTUALIZE(function()
-workspace:FindFirstChild("nigga stop deobfuscating my script you black monkey nigger - iray") -- theres this bitch nigga named isse (@723741691583922209)
+workspace:FindFirstChild("nigga stop deobfuscating my script you black monkey nigger - xero") -- theres this bitch nigga named isse (@723741691583922209)
 do -- Drawing Library 
     local drawing = {}
     local cache = {
@@ -60,7 +58,7 @@ do -- Drawing Library
     local v2 = Vector2
     local nv = v2.zero
 
-    folder.Name = "Drawing API By iRay"
+    folder.Name = "Drawing API By xero"
     folder.IgnoreGuiInset = true
     folder.Parent = game:GetService("CoreGui")
 
