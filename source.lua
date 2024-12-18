@@ -1,9 +1,4 @@
 --[[
-
-    ~ New Discord Server ~
-
-    [ https://discord.gg/tUEJZYvF9d ]
-
     ~ Index ~
 
     [ Drawing Library ] - [ Line 47 ]
